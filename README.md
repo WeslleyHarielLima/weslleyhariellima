@@ -13,8 +13,7 @@ Sou Weslley Hariel Palomeque, Analista de Sistemas desde 2018 e bacharel em Dire
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyhariellima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+Debugging é o processo de remover erros, não de escrever código.
 ---
 [![](https://visitcount.itsvg.in/api?id=weslleyhariellima&icon=0&color=0)](https://visitcount.itsvg.in)
 
